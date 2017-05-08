@@ -1,6 +1,10 @@
 # VersionManager
 An app to automatically increase version numbers of C++ projects.
 
+**Build**  
+ `cd VersionManager`  
+ `qmake`  
+ `make`  
 
 **Usage**
 
