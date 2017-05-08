@@ -27,3 +27,10 @@
 *.exe
 *.out
 *.app
+/Source/.qmake.stash
+/Source/VersionManager-gdsmain-win.pro
+/Source/VersionManager-gdsmain-win.pro.user
+/Source/VersionManager.linux.pro.user
+/Source/VersionManager.pro
+/Source/VersionManager.win7.pro
+/Source/VersionManager.win7.pro.user

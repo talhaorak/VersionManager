@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/img">
+        <file alias="coffee">BREAKFAST COFFEE.png</file>
+    </qresource>
+    <qresource prefix="/template">
+        <file>templates/proto.h</file>
+        <file>templates/resource.rc</file>
+    </qresource>
+</RCC>
